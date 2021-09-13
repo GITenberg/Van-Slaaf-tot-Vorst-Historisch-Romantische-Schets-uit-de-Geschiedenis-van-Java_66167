@@ -1,0 +1,32 @@
+_repo: Van-Slaaf-tot-Vorst-Historisch-Romantische-Schets-uit-de-Geschiedenis-van-Java_66167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melati, van Java
+    aliases:
+    - Sloot, Nicolina Maria Christina
+    - Java, Melati van
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '47398'
+    url: http://www.gutenberg.org/2009/agents/47398
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Melati_van_Java
+    - https://en.wikipedia.org/wiki/Melati_van_Java
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66167'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Dutch fiction -- 19th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Van Slaaf tot Vorst: Historisch Romantische Schets uit de Geschiedenis van
+  Java'
+url: http://www.gutenberg.org/ebooks/66167
